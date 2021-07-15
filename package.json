@@ -1,7 +1,7 @@
 {
   "name": "@mediaadmin/container-instances",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "It's a NodeJS library for create al delete instances of containers in Microsoft azure",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,15 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntMenG/-mediaadmin-container-instances.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/AntMenG/-mediaadmin-container-instances/issues"
+  },
+  "homepage": "https://github.com/AntMenG/-mediaadmin-container-instances#readme"
 }
